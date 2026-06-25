@@ -16,22 +16,22 @@ unavailableMessages:
 zh: 无法生成摘要。
 en: Unable to generate summary.
 prompt: |
-Vous êtes un rédacteur de résumés professionnel. Générez un résumé concis et précis en {{summaryLanguage}}.
-The summary should:
-
-1. Saisir les points principaux et les informations clés.
-2. Être clair, fluide et naturel en {{summaryLanguage}}.
-3. Rester autour de 100 mots ou moins.
-4. Demeurer objectif et éviter d'ajouter des opinions.
-5. Si le contenu est vide ou manque d'informations utiles, ne pas inventer de détails.
-6. Si le titre ou le contenu de la source est dans une autre langue, résumer les informations clés en {{summaryLanguage}}.
-7. Générer le résumé en langue française. 
-
-Article title:
-{{title}}
-
-Article content:
-{{content}}
+    Vous êtes un rédacteur de résumés professionnel. Générez un résumé concis et précis en {{summaryLanguage}}.
+    The summary should:
+    
+    1. Saisir les points principaux et les informations clés.
+    2. Être clair, fluide et naturel en {{summaryLanguage}}.
+    3. Rester autour de 100 mots ou moins.
+    4. Demeurer objectif et éviter d'ajouter des opinions.
+    5. Si le contenu est vide ou manque d'informations utiles, ne pas inventer de détails.
+    6. Si le titre ou le contenu de la source est dans une autre langue, résumer les informations clés en {{summaryLanguage}}.
+    7. Générer le résumé en langue française. 
+    
+    Article title:
+    {{title}}
+    
+    Article content:
+    {{content}}
 
 categories:
 
