@@ -1,21 +1,20 @@
-
 # FeedMe user-facing configuration.
 
 # Category display order follows the order below.
 
 settings:
-defaultSource: lemonde-international
-maxItemsPerFeed: 30
-dataPath: ./public/data
+  defaultSource: lemonde-international
+  maxItemsPerFeed: 30
+  dataPath: ./public/data
 
 summary:
-contentMaxChars: 5000
-temperature: 0.3
-maxTokens: 500
-unavailableMessages:
-zh: 无法生成摘要。
-en: Unable to generate summary.
-prompt: |
+  contentMaxChars: 5000
+  temperature: 0.3
+  maxTokens: 500
+  unavailableMessages:
+    zh: 无法生成摘要。
+    en: Unable to generate summary.
+  prompt: |
     Vous êtes un rédacteur de résumés professionnel. Générez un résumé concis et précis en {{summaryLanguage}}.
     The summary should:
     
@@ -34,120 +33,117 @@ prompt: |
     {{content}}
 
 categories:
-
-- id: newsMedia
-name:
-zh: 新闻媒体
-en: News Media
-- id: politics
-name:
-zh: 政治
-en: Politics
-- id: economics
-name:
-zh: 经济分析
-en: Economics
-- id: farLeft
-name:
-zh: 极左政纲
-en: Far Left
+  - id: newsMedia
+    name:
+      zh: 新闻媒体
+      en: News Media
+  - id: politics
+    name:
+      zh: 政治
+      en: Politics
+  - id: economics
+    name:
+      zh: 经济分析
+      en: Economics
+  - id: farLeft
+    name:
+      zh: 极左政纲
+      en: Far Left
 
 sources:
-
-- id: the-next-recession
-name:
-zh: The Next Recession
-en: The Next Recession
-url: [https://thenextrecession.wordpress.com/feed/](https://thenextrecession.wordpress.com/feed/)
-category: economics
-- id: lemonde-campus
-name:
-zh: Le Monde Campus
-en: Le Monde Campus
-url: [https://www.lemonde.fr/campus/rss_full.xml](https://www.lemonde.fr/campus/rss_full.xml)
-category: newsMedia
-- id: lemonde-politique
-name:
-zh: Le Monde Politique
-en: Le Monde Politics
-url: [https://www.lemonde.fr/politique/rss_full.xml](https://www.lemonde.fr/politique/rss_full.xml)
-category: politics
-- id: lemonde-economie
-name:
-zh: Le Monde Économie
-en: Le Monde Economy
-url: [https://www.lemonde.fr/economie/rss_full.xml](https://www.lemonde.fr/economie/rss_full.xml)
-category: economics
-- id: lemonde-international
-name:
-zh: Le Monde International
-en: Le Monde International
-url: [https://www.lemonde.fr/international/rss_full.xml](https://www.lemonde.fr/international/rss_full.xml)
-category: newsMedia
-- id: lesechos-economie
-name:
-zh: Les Echos Économie
-en: Les Echos Economy
-url: [https://services.lesechos.fr/rss/les-echos-economie.xml](https://services.lesechos.fr/rss/les-echos-economie.xml)
-category: economics
-- id: lesechos-monde
-name:
-zh: Les Echos Monde
-en: Les Echos World
-url: [https://services.lesechos.fr/rss/les-echos-monde.xml](https://services.lesechos.fr/rss/les-echos-monde.xml)
-category: newsMedia
-- id: lesechos-politique
-name:
-zh: Les Echos Politique
-en: Les Echos Politics
-url: [https://services.lesechos.fr/rss/les-echos-politique.xml](https://services.lesechos.fr/rss/les-echos-politique.xml)
-category: politics
-- id: mediapart
-name:
-zh: Mediapart
-en: Mediapart
-url: [https://mediapart.social/@mediapart.rss](https://mediapart.social/@mediapart.rss)
-category: politics
-- id: cepii
-name:
-zh: CEPII
-en: CEPII
-url: [https://www.cepii.fr/CEPII/rss/RSSLettre.asp](https://www.cepii.fr/CEPII/rss/RSSLettre.asp)
-category: economics
-- id: groupe-marxiste
-name:
-zh: Groupe Marxiste
-en: Marxist Group
-url: [https://groupemarxiste.info/feed/](https://groupemarxiste.info/feed/)
-category: farLeft
-- id: npa-revolutionnaires
-name:
-zh: NPA Révolutionnaires
-en: NPA Revolutionaries
-url: [https://npa-revolutionnaires.org/feed/](https://npa-revolutionnaires.org/feed/)
-category: farLeft
-- id: poi
-name:
-zh: POI
-en: POI
-url: [https://partiouvrierindependant-poi.fr/feed/](https://partiouvrierindependant-poi.fr/feed/)
-category: farLeft
-- id: marxiste-org
-name:
-zh: [Marxiste.org](https://Marxiste.org)
-en: [Marxiste.org](https://Marxiste.org)
-url: [https://marxiste.org/?format=feed&type=rss](https://marxiste.org/?format=feed&type=rss)
-category: farLeft
-- id: parti-des-travailleurs
-name:
-zh: Parti des Travailleurs
-en: Workers Party
-url: [https://parti-des-travailleurs.fr/feed/](https://parti-des-travailleurs.fr/feed/)
-category: farLeft
-- id: revolution-permanente
-name:
-zh: Révolution Permanente
-en: Permanent Revolution
-url: [https://t.me/s/revolution_permanente](https://t.me/s/revolution_permanente)
-category: farLeft
-
+  - id: the-next-recession
+    name:
+      zh: The Next Recession
+      en: The Next Recession
+    url: https://thenextrecession.wordpress.com/feed/
+    category: economics
+  - id: lemonde-campus
+    name:
+      zh: Le Monde Campus
+      en: Le Monde Campus
+    url: https://www.lemonde.fr/campus/rss_full.xml
+    category: newsMedia
+  - id: lemonde-politique
+    name:
+      zh: Le Monde Politique
+      en: Le Monde Politics
+    url: https://www.lemonde.fr/politique/rss_full.xml
+    category: politics
+  - id: lemonde-economie
+    name:
+      zh: Le Monde Économie
+      en: Le Monde Economy
+    url: https://www.lemonde.fr/economie/rss_full.xml
+    category: economics
+  - id: lemonde-international
+    name:
+      zh: Le Monde International
+      en: Le Monde International
+    url: https://www.lemonde.fr/international/rss_full.xml
+    category: newsMedia
+  - id: lesechos-economie
+    name:
+      zh: Les Echos Économie
+      en: Les Echos Economy
+    url: https://services.lesechos.fr/rss/les-echos-economie.xml
+    category: economics
+  - id: lesechos-monde
+    name:
+      zh: Les Echos Monde
+      en: Les Echos World
+    url: https://services.lesechos.fr/rss/les-echos-monde.xml
+    category: newsMedia
+  - id: lesechos-politique
+    name:
+      zh: Les Echos Politique
+      en: Les Echos Politics
+    url: https://services.lesechos.fr/rss/les-echos-politique.xml
+    category: politics
+  - id: mediapart
+    name:
+      zh: Mediapart
+      en: Mediapart
+    url: https://mediapart.social/@mediapart.rss
+    category: politics
+  - id: cepii
+    name:
+      zh: CEPII
+      en: CEPII
+    url: https://www.cepii.fr/CEPII/rss/RSSLettre.asp
+    category: economics
+  - id: groupe-marxiste
+    name:
+      zh: Groupe Marxiste
+      en: Marxist Group
+    url: https://groupemarxiste.info/feed/
+    category: farLeft
+  - id: npa-revolutionnaires
+    name:
+      zh: NPA Révolutionnaires
+      en: NPA Revolutionaries
+    url: https://npa-revolutionnaires.org/feed/
+    category: farLeft
+  - id: poi
+    name:
+      zh: POI
+      en: POI
+    url: https://partiouvrierindependant-poi.fr/feed/
+    category: farLeft
+  - id: marxiste-org
+    name:
+      zh: Marxiste.org
+      en: Marxiste.org
+    url: https://marxiste.org/?format=feed&type=rss
+    category: farLeft
+  - id: parti-des-travailleurs
+    name:
+      zh: Parti des Travailleurs
+      en: Workers Party
+    url: https://parti-des-travailleurs.fr/feed/
+    category: farLeft
+  - id: revolution-permanente
+    name:
+      zh: Révolution Permanente
+      en: Permanent Revolution
+    url: https://t.me/s/revolution_permanente
+    category: farLeft
