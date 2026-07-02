@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "google-labs-code/design.md",
+      "link": "https://github.com/google-labs-code/design.md",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8c1ec2ee51a6f5500666b25badd98947b152079df807aa3e501b0930f4e6e1e1/google-labs-code/design.md\" referrerpolicy=\"no-referrer\"><br>A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.<br><br>Language: TypeScript<br>Stars: 18755<br>Forks: 1628",
+      "contentSnippet": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.\nLanguage: TypeScript\nStars: 18755\nForks: 1628",
+      "creator": "google-labs-code",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 21768<br>Forks: 2433",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 21768\nForks: 2433",
+      "creator": "calesthio",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "xbtlin/ai-berkshire",
+      "link": "https://github.com/xbtlin/ai-berkshire",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d51dfd638b9ccc2aba5dda7c425e29519cdf8db037a98e3bb47f586902ed6644/xbtlin/ai-berkshire\" referrerpolicy=\"no-referrer\"><br>AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.<br><br>Language: Python<br>Stars: 1739<br>Forks: 286",
+      "contentSnippet": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.\nLanguage: Python\nStars: 1739\nForks: 286",
+      "creator": "xbtlin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mauriceboe/TREK",
+      "link": "https://github.com/mauriceboe/TREK",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1186219527/e99097ec-2cd3-412c-b0a5-fcee6aa76859\" referrerpolicy=\"no-referrer\"><br>A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.<br><br>Language: TypeScript<br>Stars: 6458<br>Forks: 597",
+      "contentSnippet": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.\nLanguage: TypeScript\nStars: 6458\nForks: 597",
+      "creator": "mauriceboe",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "apple/container",
+      "link": "https://github.com/apple/container",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15\" referrerpolicy=\"no-referrer\"><br>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. <br><br>Language: Swift<br>Stars: 43056<br>Forks: 1265",
+      "contentSnippet": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. \nLanguage: Swift\nStars: 43056\nForks: 1265",
+      "creator": "apple",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JCodesMore/ai-website-cloner-template",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/34d9285f5c0d092ba6680d06eaa69f634a6fb3d241734117c04aa993c99040b0/JCodesMore/ai-website-cloner-template\" referrerpolicy=\"no-referrer\"><br>Clone any website with one command using AI coding agents<br><br>Language: TypeScript<br>Stars: 20232<br>Forks: 2982",
+      "contentSnippet": "Clone any website with one command using AI coding agents\nLanguage: TypeScript\nStars: 20232\nForks: 2982",
+      "creator": "JCodesMore",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "garrytan/gstack",
+      "link": "https://github.com/garrytan/gstack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8c033e364b5a25b52e8f8785ba6f7fcc11008337f5adde0337bde94ae8a42c1f/garrytan/gstack\" referrerpolicy=\"no-referrer\"><br>Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA<br><br>Language: TypeScript<br>Stars: 115631<br>Forks: 17147",
+      "contentSnippet": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\nLanguage: TypeScript\nStars: 115631\nForks: 17147",
+      "creator": "garrytan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "link": "https://github.com/aws/agent-toolkit-for-aws",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6c25933948f289969969e34fbfd3bb501a0944c5b24dca0d3f2ec783f9307955/aws/agent-toolkit-for-aws\" referrerpolicy=\"no-referrer\"><br>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS<br><br>Language: Python<br>Stars: 1086<br>Forks: 110",
+      "contentSnippet": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\nLanguage: Python\nStars: 1086\nForks: 110",
+      "creator": "aws",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be\" referrerpolicy=\"no-referrer\"><br>817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0<br><br>Language: Python<br>Stars: 21060<br>Forks: 2430",
+      "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nLanguage: Python\nStars: 21060\nForks: 2430",
+      "creator": "mukul975",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/page-agent",
+      "link": "https://github.com/alibaba/page-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1062458369/4f9a1671-3953-4f45-8a8e-b010e33520bc\" referrerpolicy=\"no-referrer\"><br>JavaScript in-page GUI agent. Control web interfaces with natural language.<br><br>Language: TypeScript<br>Stars: 19728<br>Forks: 1701",
+      "contentSnippet": "JavaScript in-page GUI agent. Control web interfaces with natural language.\nLanguage: TypeScript\nStars: 19728\nForks: 1701",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "IceWhaleTech/CasaOS",
+      "link": "https://github.com/IceWhaleTech/CasaOS",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/410430370/abdd2e89-5639-4d68-b363-4a3d3b7b369d\" referrerpolicy=\"no-referrer\"><br>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.<br><br>Language: Go<br>Stars: 34673<br>Forks: 1985",
+      "contentSnippet": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.\nLanguage: Go\nStars: 34673\nForks: 1985",
+      "creator": "IceWhaleTech",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "opendatalab/MinerU",
+      "link": "https://github.com/opendatalab/MinerU",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4c50bebd33017f7d1e6bd2204ae0cc7c2306136945bf74a896f0715d7c082350/opendatalab/MinerU\" referrerpolicy=\"no-referrer\"><br>Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.<br><br>Language: Python<br>Stars: 69366<br>Forks: 5863",
+      "contentSnippet": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.\nLanguage: Python\nStars: 69366\nForks: 5863",
+      "creator": "opendatalab",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Free-TV/IPTV",
+      "link": "https://github.com/Free-TV/IPTV",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/506989a7f5d0e933d20509444e94a97092c8eaee11dc63a8b8bea7bb68316cc5/Free-TV/IPTV\" referrerpolicy=\"no-referrer\"><br>M3U Playlist for free TV channels<br><br>Language: Python<br>Stars: 18149<br>Forks: 2670",
+      "contentSnippet": "M3U Playlist for free TV channels\nLanguage: Python\nStars: 18149\nForks: 2670",
+      "creator": "Free-TV",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "shanraisshan/claude-code-best-practice",
+      "link": "https://github.com/shanraisshan/claude-code-best-practice",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1087192965/27debc8a-2f0c-46a1-8478-faed2863dc59\" referrerpolicy=\"no-referrer\"><br>from vibe coding to agentic engineering - practice makes claude perfect<br><br>Language: HTML<br>Stars: 60371<br>Forks: 6049",
+      "contentSnippet": "from vibe coding to agentic engineering - practice makes claude perfect\nLanguage: HTML\nStars: 60371\nForks: 6049",
+      "creator": "shanraisshan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/73befc07907540d286ef212e39921446cb43f412e98899c830930457f2883828/NanmiCoder/MediaCrawler\" referrerpolicy=\"no-referrer\"><br>小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫<br><br>Language: Python<br>Stars: 52707<br>Forks: 10914",
+      "contentSnippet": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫\nLanguage: Python\nStars: 52707\nForks: 10914",
+      "creator": "NanmiCoder",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-25T18:18:52.291Z"
+}

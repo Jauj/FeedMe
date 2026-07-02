@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "I automated my job (and it made me a better leader)",
+      "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+      "pubDate": "Tue, 23 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-23T16:00:00.000Z",
+      "content": "<p>Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/\">I automated my job (and it made me a better leader)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites.\nThe post I automated my job (and it made me a better leader) appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+      "pubDate": "Tue, 23 Jun 2026 15:48:00 +0000",
+      "isoDate": "2026-06-23T15:48:00.000Z",
+      "content": "<p>We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/\">GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent.\nThe post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "pubDate": "Mon, 22 Jun 2026 17:20:31 +0000",
+      "isoDate": "2026-06-22T17:20:31.000Z",
+      "content": "<p>Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. </p>\n<p>The post <a href=\"https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/\">From pledge to practice: Building a more inclusive open source ecosystem</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. \nThe post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we built an internal data analytics agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "pubDate": "Fri, 19 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-19T16:00:00.000Z",
+      "content": "<p>Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/\">How we built an internal data analytics agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.\nThe post How we built an internal data analytics agent appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How pull request limits are cutting down the noise",
+      "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "pubDate": "Thu, 18 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-18T16:00:00.000Z",
+      "content": "<p>Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/\">How pull request limits are cutting down the noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap.\nThe post How pull request limits are cutting down the noise appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Getting more from each token: How Copilot improves context handling and model routing",
+      "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "pubDate": "Wed, 17 Jun 2026 19:41:46 +0000",
+      "isoDate": "2026-06-17T19:41:46.000Z",
+      "content": "<p>How GitHub Copilot is making more of each session go toward useful work, so your credits go further.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/\">Getting more from each token: How Copilot improves context handling and model routing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further.\nThe post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What are git worktrees, and why should I use them?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+      "pubDate": "Tue, 16 Jun 2026 20:58:54 +0000",
+      "isoDate": "2026-06-16T20:58:54.000Z",
+      "content": "<p>Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/\">What are git worktrees, and why should I use them?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might.\nThe post What are git worktrees, and why should I use them? appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "pubDate": "Mon, 15 Jun 2026 20:15:31 +0000",
+      "isoDate": "2026-06-15T20:15:31.000Z",
+      "content": "<p>GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/\">GitHub Copilot CLI for Beginners: Overview of common slash commands</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent.\nThe post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "pubDate": "Mon, 15 Jun 2026 19:17:30 +0000",
+      "isoDate": "2026-06-15T19:17:30.000Z",
+      "content": "<p>A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/\">Accelerating researchers and developers building multilingual AI with a new open dataset</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests.\nThe post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we made GitHub Copilot CLI more selective about delegation",
+      "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "pubDate": "Fri, 12 Jun 2026 22:26:23 +0000",
+      "isoDate": "2026-06-12T22:26:23.000Z",
+      "content": "<p>Better orchestration, fewer handoffs, faster progress, without a single new knob.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/\">How we made GitHub Copilot CLI more selective about delegation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Better orchestration, fewer handoffs, faster progress, without a single new knob.\nThe post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog.",
+      "creator": "Dylan Birtolo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-25T18:18:36.103Z"
+}
