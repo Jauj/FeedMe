@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/markets/news.rss",
+  "title": "Bloomberg Markets",
+  "description": "Bloomberg Markets",
+  "link": "https://bloomberg.com/markets/",
+  "items": [
+    {
+      "title": "S&amp;P 500 Earnings Will Soon Be Eclipsed. Blame Canada",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/blockbuster-s-p-500-earnings-will-soon-be-eclipsed-blame-canada",
+      "pubDate": "Thu, 25 Jun 2026 12:00:10 GMT",
+      "isoDate": "2026-06-25T12:00:10.000Z",
+      "content": "US firms just put a lid on one of the best earnings seasons in years, posting 28% profit growth. They may be upstaged by their Canadian neighbors in the next reporting period as the first half comes to a close.",
+      "contentSnippet": "US firms just put a lid on one of the best earnings seasons in years, posting 28% profit growth. They may be upstaged by their Canadian neighbors in the next reporting period as the first half comes to a close.",
+      "creator": "Geoffrey Morgan, Stephanie Hughes",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NYC ‘Classical Christian’ School Wins UWS Campus for $33 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/nyc-classical-christian-school-wins-uws-campus-for-33-million",
+      "pubDate": "Thu, 25 Jun 2026 18:06:10 GMT",
+      "isoDate": "2026-06-25T18:06:10.000Z",
+      "content": "Geneva School of Manhattan &mdash; an institution that describes itself as a “classical Christian school” &mdash; is acquiring the former Upper West Side home of a bankrupt private school for $33.2 million.",
+      "contentSnippet": "Geneva School of Manhattan — an institution that describes itself as a “classical Christian school” — is acquiring the former Upper West Side home of a bankrupt private school for $33.2 million.",
+      "creator": "Jonathan Randles",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fire Breaks Out at Delta Air Lines Refinery in Pennsylvania",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/fire-breaks-out-at-delta-air-lines-dal-refinery-in-pennsylvania",
+      "pubDate": "Thu, 25 Jun 2026 17:40:53 GMT",
+      "isoDate": "2026-06-25T17:40:53.000Z",
+      "content": "A fire broke out at Delta Air Lines Inc.’s refinery in Trainer, Pennsylvania, on Thursday.",
+      "contentSnippet": "A fire broke out at Delta Air Lines Inc.’s refinery in Trainer, Pennsylvania, on Thursday.",
+      "creator": "Will Kubzansky",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ford CEO Says Human Workers Are Making a Difference",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/ford-ceo-says-human-workers-are-making-a-difference-video",
+      "pubDate": "Thu, 25 Jun 2026 17:51:49 GMT",
+      "isoDate": "2026-06-25T17:51:49.000Z",
+      "content": "Ford Motor Co. Chief Executive Officer Jim Farley talks about how human workers are making all the difference on the factory floors. He speaks on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "contentSnippet": "Ford Motor Co. Chief Executive Officer Jim Farley talks about how human workers are making all the difference on the factory floors. He speaks on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Treasuries Gain as Inflation Gauge Cools Fed Rate-Hike Bets",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/treasuries-climb-as-benign-us-inflation-eases-bets-on-a-fed-hike",
+      "pubDate": "Thu, 25 Jun 2026 12:51:09 GMT",
+      "isoDate": "2026-06-25T12:51:09.000Z",
+      "content": "Treasuries gained after the Federal Reserve’s favored inflation gauge rose less than estimated, damping expectations for an interest-rate hike in the months ahead.",
+      "contentSnippet": "Treasuries gained after the Federal Reserve’s favored inflation gauge rose less than estimated, damping expectations for an interest-rate hike in the months ahead.",
+      "creator": "Ye Xie",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Stocks Whipsaw as Micron Surges While Apple Sinks: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+      "pubDate": "Wed, 24 Jun 2026 22:04:22 GMT",
+      "isoDate": "2026-06-24T22:04:22.000Z",
+      "content": "A renewed wave of tech volatility gripped Wall Street, with a selloff in megacaps overshadowing gains in other corners of the stock market that were buoyed by signs the economy is in good shape.",
+      "contentSnippet": "A renewed wave of tech volatility gripped Wall Street, with a selloff in megacaps overshadowing gains in other corners of the stock market that were buoyed by signs the economy is in good shape.",
+      "creator": "Rita Nazareth",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Figma Unveils Full-Stack Canvas for the AI Era",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/figma-unveils-full-stack-canvas-for-the-ai-era-video",
+      "pubDate": "Thu, 25 Jun 2026 17:42:07 GMT",
+      "isoDate": "2026-06-25T17:42:07.000Z",
+      "content": "Collaborative design firm Figma unveiled a platform overhaul for the AI era at its annual Config conference in San Francisco, transforming its workspace into what it calls an \"intelligent canvas\" for full-stack digital creation. Figma co-founder and CEO Dylan Field joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Collaborative design firm Figma unveiled a platform overhaul for the AI era at its annual Config conference in San Francisco, transforming its workspace into what it calls an \"intelligent canvas\" for full-stack digital creation. Figma co-founder and CEO Dylan Field joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Darden Posts Weak Outlook as Olive Garden Sales Disappoint",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/darden-posts-weak-outlook-olive-garden-sales-disappoint-video",
+      "pubDate": "Thu, 25 Jun 2026 17:29:03 GMT",
+      "isoDate": "2026-06-25T17:29:03.000Z",
+      "content": "Darden Restaurants Inc. posted a cautious overall profit outlook as same-store sales at Olive Garden trailed expectations, raising questions about demand that overshadowed better-than-expected earnings.\nMichael Halen, Bloomberg Intelligence Senior Restaurant and Foodservice Analyst, breaks down the earnings and gives his outlook for the broader food service industry. (Source: Bloomberg)",
+      "contentSnippet": "Darden Restaurants Inc. posted a cautious overall profit outlook as same-store sales at Olive Garden trailed expectations, raising questions about demand that overshadowed better-than-expected earnings.\nMichael Halen, Bloomberg Intelligence Senior Restaurant and Foodservice Analyst, breaks down the earnings and gives his outlook for the broader food service industry. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Stellantis, Nissan in Talks to Buy Assets From Troubled Marelli",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/stellantis-nissan-in-talks-to-buy-assets-from-troubled-marelli",
+      "pubDate": "Thu, 25 Jun 2026 17:22:06 GMT",
+      "isoDate": "2026-06-25T17:22:06.000Z",
+      "content": "Stellantis NV and Nissan Motor Co. are in talks to take over some of the assets of Marelli Holdings Co., the global auto-parts maker that’s mired in a challenging reorganization in bankruptcy.",
+      "contentSnippet": "Stellantis NV and Nissan Motor Co. are in talks to take over some of the assets of Marelli Holdings Co., the global auto-parts maker that’s mired in a challenging reorganization in bankruptcy.",
+      "creator": "Alberto Brambilla, Giulia Morpurgo, Albertina Torsoli",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "H.B. Fuller Agrees to Acquire UK-Listed AMS for £659 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-agrees-to-acquire-uk-medtech-ams-for-659-million",
+      "pubDate": "Thu, 25 Jun 2026 06:57:44 GMT",
+      "isoDate": "2026-06-25T06:57:44.000Z",
+      "content": "H.B. Fuller Co. agreed to acquire Advanced Medical Solutions Group Plc, a British maker of tissue-healing medical products, for £659 million ($870 million).",
+      "contentSnippet": "H.B. Fuller Co. agreed to acquire Advanced Medical Solutions Group Plc, a British maker of tissue-healing medical products, for £659 million ($870 million).",
+      "creator": "Liana Baker, Mengqi Sun",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hertz Heads for Record Weekly Drop on Funding Plan, Profit Guide",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/hertz-heads-for-record-weekly-drop-on-funding-plan-profit-guide",
+      "pubDate": "Thu, 25 Jun 2026 17:16:46 GMT",
+      "isoDate": "2026-06-25T17:16:46.000Z",
+      "content": "A record-setting rout in Hertz Global Holdings Inc. stock is continuing for a second day.",
+      "contentSnippet": "A record-setting rout in Hertz Global Holdings Inc. stock is continuing for a second day.",
+      "creator": "Jordan Fitzgerald",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Michael Saylor’s Misfiring Funding Model Jolts Bitcoin Traders",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/michael-saylor-s-misfiring-funding-model-jolts-bitcoin-traders",
+      "pubDate": "Thu, 25 Jun 2026 17:13:29 GMT",
+      "isoDate": "2026-06-25T17:13:29.000Z",
+      "content": "Fears that Michael Saylor’s Bitcoin buying machine is beginning to seize up are spilling across the crypto market, fueling the latest leg of Bitcoin’s selloff and exposing cracks in one of the financial structures that has underpinned demand for the world’s largest cryptocurrency over the past two years.",
+      "contentSnippet": "Fears that Michael Saylor’s Bitcoin buying machine is beginning to seize up are spilling across the crypto market, fueling the latest leg of Bitcoin’s selloff and exposing cracks in one of the financial structures that has underpinned demand for the world’s largest cryptocurrency over the past two years.",
+      "creator": "Sidhartha Shukla",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "UNC-Chapel Hill Chancellor on Adding Students, Athletics",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/unc-chapel-hill-chancellor-on-adding-students-athletics-video",
+      "pubDate": "Thu, 25 Jun 2026 17:07:16 GMT",
+      "isoDate": "2026-06-25T17:07:16.000Z",
+      "content": "UNC-Chapel Hill Chancellor Lee Roberts discusses student growth, funding, college sports and a potential new stadium. He speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
+      "contentSnippet": "UNC-Chapel Hill Chancellor Lee Roberts discusses student growth, funding, college sports and a potential new stadium. He speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Macflation Is Officially Here",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/macflation-is-officially-here",
+      "pubDate": "Thu, 25 Jun 2026 17:05:27 GMT",
+      "isoDate": "2026-06-25T17:05:27.000Z",
+      "content": "Gadget prices inflate.",
+      "contentSnippet": "Gadget prices inflate.",
+      "creator": "Joe Weisenthal, Tracy Alloway",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ship Struck in Hormuz as Oil Supertankers Turn Back Again",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/ships-appear-to-u-turn-while-trying-to-exit-hormuz-by-oman-route",
+      "pubDate": "Thu, 25 Jun 2026 14:48:38 GMT",
+      "isoDate": "2026-06-25T14:48:38.000Z",
+      "content": "A ship was hit by an unknown projectile in the Strait of Hormuz, just hours after several freighters turned around while attempting to cross the vital waterway, developments that may undermine what had been a rapid reopening of the energy chokepoint.",
+      "contentSnippet": "A ship was hit by an unknown projectile in the Strait of Hormuz, just hours after several freighters turned around while attempting to cross the vital waterway, developments that may undermine what had been a rapid reopening of the energy chokepoint.",
+      "creator": "Julian Lee, Alex Longley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hetts: Ignore PEs, Watch Earnings",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/hetts-ignore-pes-watch-earnings-video",
+      "pubDate": "Thu, 25 Jun 2026 16:37:04 GMT",
+      "isoDate": "2026-06-25T16:37:04.000Z",
+      "content": "AI stocks may be stealing the spotlight, but Janus Henderson's Adam Hetts says investors are missing the bigger story. He joined Bloomberg Open Interest to explain why earnings, and not valuations, are driving markets, why sticky inflation isn't a dealbreaker, and why the rally is expanding well beyond Big Tech. (Source: Bloomberg)",
+      "contentSnippet": "AI stocks may be stealing the spotlight, but Janus Henderson's Adam Hetts says investors are missing the bigger story. He joined Bloomberg Open Interest to explain why earnings, and not valuations, are driving markets, why sticky inflation isn't a dealbreaker, and why the rally is expanding well beyond Big Tech. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple Shares Sink After Sweeping Price Hikes Hit iPads and Macs",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages",
+      "pubDate": "Thu, 25 Jun 2026 12:39:45 GMT",
+      "isoDate": "2026-06-25T12:39:45.000Z",
+      "content": "Apple Inc. shares fell after it raised prices of all Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage.",
+      "contentSnippet": "Apple Inc. shares fell after it raised prices of all Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage.",
+      "creator": "Mark Gurman",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gold Steadies Near $4,000 as Traders Weigh Interest-Rate Outlook",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/gold-steadies-near-4k-as-traders-weigh-rate-outlook-video",
+      "pubDate": "Thu, 25 Jun 2026 16:25:44 GMT",
+      "isoDate": "2026-06-25T16:25:44.000Z",
+      "content": "Gold steadied after the release of US economic data, as traders slightly pulled back on expectations for interest rate hikes. Suki Cooper, Global Head: Commodities Research at Standard Chartered Bank, discusses her outlook on the precious metals space and why central banks are buying gold amid the pullback. (Source: Bloomberg)",
+      "contentSnippet": "Gold steadied after the release of US economic data, as traders slightly pulled back on expectations for interest rate hikes. Suki Cooper, Global Head: Commodities Research at Standard Chartered Bank, discusses her outlook on the precious metals space and why central banks are buying gold amid the pullback. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Chipmakers Rally With Traders Piling In After Micron Results",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth",
+      "pubDate": "Wed, 24 Jun 2026 21:18:44 GMT",
+      "isoDate": "2026-06-24T21:18:44.000Z",
+      "content": "Semiconductor stocks surged on Thursday as Micron Technology Inc.’s strong results underscored how artificial intelligence remains a major vector for growth.",
+      "contentSnippet": "Semiconductor stocks surged on Thursday as Micron Technology Inc.’s strong results underscored how artificial intelligence remains a major vector for growth.",
+      "creator": "Ryan Vlastelica, Subrat Patnaik",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "SpaceX Credit Derivatives Start to Trade After Debut Bond Sale",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/spacex-credit-derivatives-start-to-trade-after-debut-bond-sale",
+      "pubDate": "Thu, 25 Jun 2026 16:05:30 GMT",
+      "isoDate": "2026-06-25T16:05:30.000Z",
+      "content": "Credit-default swaps tied to Elon Musk’s SpaceX have begun actively trading after the company sold high-grade bonds this week for the first time, according to people familiar with the matter, allowing investors to hedge against potential losses or to speculate on the creditworthiness of the firm.",
+      "contentSnippet": "Credit-default swaps tied to Elon Musk’s SpaceX have begun actively trading after the company sold high-grade bonds this week for the first time, according to people familiar with the matter, allowing investors to hedge against potential losses or to speculate on the creditworthiness of the firm.",
+      "creator": "Caleb Mutua",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "China Raises €5 Billion in Record Euro Bond Sale",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/china-starts-marketing-record-5-7-billion-euro-sovereign-bonds",
+      "pubDate": "Thu, 25 Jun 2026 00:51:38 GMT",
+      "isoDate": "2026-06-25T00:51:38.000Z",
+      "content": "China sold €5 billion ($5.7 billion) of euro-denominated bonds, its biggest ever deal in the currency and the second in seven months.",
+      "contentSnippet": "China sold €5 billion ($5.7 billion) of euro-denominated bonds, its biggest ever deal in the currency and the second in seven months.",
+      "creator": "Janice Huang",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/us-consumer-spending-picks-up-despite-higher-inflation-video",
+      "pubDate": "Thu, 25 Jun 2026 16:01:04 GMT",
+      "isoDate": "2026-06-25T16:01:04.000Z",
+      "content": "US consumer spending accelerated in May even as prices rose at the fastest pace in more than three years, suggesting Americans are powering through the fallout from the Iran war.\nRob Sockin, Chief US Economist at PGIM Credit, reacts to the PCE data and explains how the Fed might react to the numbers. (Source: Bloomberg)",
+      "contentSnippet": "US consumer spending accelerated in May even as prices rose at the fastest pace in more than three years, suggesting Americans are powering through the fallout from the Iran war.\nRob Sockin, Chief US Economist at PGIM Credit, reacts to the PCE data and explains how the Fed might react to the numbers. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Stocks Climb Even as Apple Price Hikes Offset Chipmaker Strength",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-tech-stocks-set-to-rally-as-micron-outlook-fuels-ai-optimism",
+      "pubDate": "Thu, 25 Jun 2026 09:41:07 GMT",
+      "isoDate": "2026-06-25T09:41:07.000Z",
+      "content": "Stocks solidified gains in the middle of a choppy trading session that saw Apple Inc.’s move to raise prices on its products unwinding some of the enthusiasm over strong chipmaker forecasts.",
+      "contentSnippet": "Stocks solidified gains in the middle of a choppy trading session that saw Apple Inc.’s move to raise prices on its products unwinding some of the enthusiasm over strong chipmaker forecasts.",
+      "creator": "Geoffrey Morgan, Jackie Edwards",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Oil Rises as Traders Assess Pace of Hormuz Reopening, Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/latest-oil-market-news-and-analysis-for-june-25",
+      "pubDate": "Wed, 24 Jun 2026 22:02:16 GMT",
+      "isoDate": "2026-06-24T22:02:16.000Z",
+      "content": "Oil rose as traders closely monitored shipments through the Strait of Hormuz following an incident involving a cargo ship off the Omani coast, renewing concerns about the safety of the key shipping corridor.",
+      "contentSnippet": "Oil rose as traders closely monitored shipments through the Strait of Hormuz following an incident involving a cargo ship off the Omani coast, renewing concerns about the safety of the key shipping corridor.",
+      "creator": "Yongchang Chin, Alex Longley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Bloomberg Surveillance 6/25/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/bloomberg-surveillance-6-25-2026-video",
+      "pubDate": "Thu, 25 Jun 2026 15:55:29 GMT",
+      "isoDate": "2026-06-25T15:55:29.000Z",
+      "content": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+      "contentSnippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hungary Yields Approach UK Gilts as Pro-EU Turn Fuels Rally",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "isoDate": "2026-06-25T07:00:00.000Z",
+      "content": "Hungary’s bonds have rallied so much that yields are approaching those in the UK, the latest sign that investors are backing the new government’s plans to fix the economy and join the euro region.",
+      "contentSnippet": "Hungary’s bonds have rallied so much that yields are approaching those in the UK, the latest sign that investors are backing the new government’s plans to fix the economy and join the euro region.",
+      "creator": "Kerim Karakaya, Andras Gergely, Srinivasan Sivabalan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Airfares Are Staying High Even as the Jet Fuel Crisis Fades",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/airfares-are-staying-high-even-as-the-jet-fuel-crisis-fades",
+      "pubDate": "Thu, 25 Jun 2026 15:30:55 GMT",
+      "isoDate": "2026-06-25T15:30:55.000Z",
+      "content": "A historic jet fuel crisis is now fading as prices fall globally, but US passengers are yet to see the benefit with airfares still elevated.",
+      "contentSnippet": "A historic jet fuel crisis is now fading as prices fall globally, but US passengers are yet to see the benefit with airfares still elevated.",
+      "creator": "Will Kubzansky",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Trump Requests $11.1 Billion in New Aid for Struggling Farmers",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-requests-11-1-billion-in-new-aid-for-struggling-farmers",
+      "pubDate": "Thu, 25 Jun 2026 15:29:33 GMT",
+      "isoDate": "2026-06-25T15:29:33.000Z",
+      "content": "President Donald Trump had a surprise for the farmers he invited for dinner at the White House later Thursday: a request to Congress for $11.1 billion in assistance that would amount to the second bailout of the year for the beleaguered agriculture sector.",
+      "contentSnippet": "President Donald Trump had a surprise for the farmers he invited for dinner at the White House later Thursday: a request to Congress for $11.1 billion in assistance that would amount to the second bailout of the year for the beleaguered agriculture sector.",
+      "creator": "Michael Hirtzer, Erin Ailworth, Elizabeth Elkin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How the 1994 World Cup Changed the Business of Football Forever",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/how-the-1994-world-cup-changed-the-business-of-football-video-mqtnggcl",
+      "pubDate": "Thu, 25 Jun 2026 15:21:07 GMT",
+      "isoDate": "2026-06-25T15:21:07.000Z",
+      "content": "The World Cup had been an enormously popular event with surprisingly limited commercial significance; the 1990 tournament in Italy, for instance, lost money for broadcasters. Then the World Cup came to the US in 1994 and everything changed.\n\nOn this episode of the Odd Lots podcast, Joey D’Urso, author of More Than A Shirt, joins Tracy Alloway and Joe Weisenthal to discuss how advertisements and sponsorships by American corporations like McDonalds and General Motors in the 1994 World Cup changed the business of the sport forever.  (Source: Bloomberg)",
+      "contentSnippet": "The World Cup had been an enormously popular event with surprisingly limited commercial significance; the 1990 tournament in Italy, for instance, lost money for broadcasters. Then the World Cup came to the US in 1994 and everything changed.\n\nOn this episode of the Odd Lots podcast, Joey D’Urso, author of More Than A Shirt, joins Tracy Alloway and Joe Weisenthal to discuss how advertisements and sponsorships by American corporations like McDonalds and General Motors in the 1994 World Cup changed the business of the sport forever.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US Airline Stocks Erase Pandemic-Era Losses as Oil Prices Ease",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-airline-stocks-erase-pandemic-era-losses-as-oil-prices-ease",
+      "pubDate": "Thu, 25 Jun 2026 15:12:47 GMT",
+      "isoDate": "2026-06-25T15:12:47.000Z",
+      "content": "A popular gauge of the US airline industry has finally recovered from pandemic-era losses after six years, as progress on a peace deal between US and Iran pushed oil prices lower and eased the pressure on carriers’ profitability.",
+      "contentSnippet": "A popular gauge of the US airline industry has finally recovered from pandemic-era losses after six years, as progress on a peace deal between US and Iran pushed oil prices lower and eased the pressure on carriers’ profitability.",
+      "creator": "Peyton Forte",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-25T18:17:47.341Z"
+}
