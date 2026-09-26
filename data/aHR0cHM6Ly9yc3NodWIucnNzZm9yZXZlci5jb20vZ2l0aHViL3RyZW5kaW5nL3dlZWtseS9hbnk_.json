@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 21768<br>Forks: 2433",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 21768\nForks: 2433",
+      "creator": "calesthio",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DeusData/codebase-memory-mcp",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166102148/c6b6a073-5cad-4f9a-81c4-16018827c144\" referrerpolicy=\"no-referrer\"><br>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.<br><br>Language: C<br>Stars: 14659<br>Forks: 1080",
+      "contentSnippet": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.\nLanguage: C\nStars: 14659\nForks: 1080",
+      "creator": "DeusData",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a4f251a4261cc023d5715034b8f476ef87b66110ef0adc99c25e4e27ee1dcbaa/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 25544<br>Forks: 2428",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 25544\nForks: 2428",
+      "creator": "google-research",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "koala73/worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417\" referrerpolicy=\"no-referrer\"><br>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface<br><br>Language: TypeScript<br>Stars: 59764<br>Forks: 9337",
+      "contentSnippet": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface\nLanguage: TypeScript\nStars: 59764\nForks: 9337",
+      "creator": "koala73",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "penpot/penpot",
+      "link": "https://github.com/penpot/penpot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f\" referrerpolicy=\"no-referrer\"><br>Penpot: The open-source design tool for design and code collaboration<br><br>Language: Clojure<br>Stars: 53656<br>Forks: 3458",
+      "contentSnippet": "Penpot: The open-source design tool for design and code collaboration\nLanguage: Clojure\nStars: 53656\nForks: 3458",
+      "creator": "penpot",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jamiepine/voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/40df360751303c4c5932cb29b3b53363029a7cb5dbd0be58332c6a65a767707d/jamiepine/voicebox\" referrerpolicy=\"no-referrer\"><br>The open-source AI voice studio. Clone, dictate, create.<br><br>Language: TypeScript<br>Stars: 34144<br>Forks: 4109",
+      "contentSnippet": "The open-source AI voice studio. Clone, dictate, create.\nLanguage: TypeScript\nStars: 34144\nForks: 4109",
+      "creator": "jamiepine",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/555f151b-8242-4590-932f-ccdf7b549cd6\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.<br><br>Language: JavaScript<br>Stars: 46007<br>Forks: 7545",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.\nLanguage: JavaScript\nStars: 46007\nForks: 7545",
+      "creator": "asgeirtj",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ada6fbd704194b975030a4fd71210e331553902b4de30f7bb17ee6e3fd23c63f/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 41023<br>Forks: 3246",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 41023\nForks: 3246",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 49434<br>Forks: 43427",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 49434\nForks: 43427",
+      "creator": "ZhuLinsen",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d22787b736273f37638b9ea5f1149db0fbb094a1a78d01c9db81df51b020d954/OpenCut-app/OpenCut\" referrerpolicy=\"no-referrer\"><br>The open-source CapCut alternative<br><br>Language: TypeScript<br>Stars: 59737<br>Forks: 6489",
+      "contentSnippet": "The open-source CapCut alternative\nLanguage: TypeScript\nStars: 59737\nForks: 6489",
+      "creator": "OpenCut-app",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "withastro/flue",
+      "link": "https://github.com/withastro/flue",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5a31473ee0e1315298503cac86b3fd92cbe5f11cd07ada5a2c26f1c1071e0d85/withastro/flue\" referrerpolicy=\"no-referrer\"><br>The sandbox agent framework.<br><br>Language: TypeScript<br>Stars: 6688<br>Forks: 371",
+      "contentSnippet": "The sandbox agent framework.\nLanguage: TypeScript\nStars: 6688\nForks: 371",
+      "creator": "withastro",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be\" referrerpolicy=\"no-referrer\"><br>817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0<br><br>Language: Python<br>Stars: 21060<br>Forks: 2430",
+      "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nLanguage: Python\nStars: 21060\nForks: 2430",
+      "creator": "mukul975",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Stirling-Tools/Stirling-PDF",
+      "link": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/594155488/e847631d-8898-4616-b558-8a9dde7f743a\" referrerpolicy=\"no-referrer\"><br>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere<br><br>Language: Java<br>Stars: 84314<br>Forks: 7343",
+      "contentSnippet": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere\nLanguage: Java\nStars: 84314\nForks: 7343",
+      "creator": "Stirling-Tools",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "interviewstreet/hiring-agent",
+      "link": "https://github.com/interviewstreet/hiring-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/efc60f14bb77a3fef9dcd0ddb2f18957e9433ad2323fa84dadecde769aa7e1e7/interviewstreet/hiring-agent\" referrerpolicy=\"no-referrer\"><br>AI agent to evaluate and score resumes.<br><br>Language: Python<br>Stars: 2687<br>Forks: 649",
+      "contentSnippet": "AI agent to evaluate and score resumes.\nLanguage: Python\nStars: 2687\nForks: 649",
+      "creator": "interviewstreet",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ada6fbd704194b975030a4fd71210e331553902b4de30f7bb17ee6e3fd23c63f/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.<br><br>Language: TypeScript<br>Stars: 7327<br>Forks: 524",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.\nLanguage: TypeScript\nStars: 7327\nForks: 524",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "n0-computer/iroh",
+      "link": "https://github.com/n0-computer/iroh",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24113315eedb0a3e3eb1a1437d4b24f3ee7165c491845186d8c4b81d334a887c/n0-computer/iroh\" referrerpolicy=\"no-referrer\"><br>IP addresses break, dial keys instead. Modular networking stack in Rust.<br><br>Language: Rust<br>Stars: 10754<br>Forks: 492",
+      "contentSnippet": "IP addresses break, dial keys instead. Modular networking stack in Rust.\nLanguage: Rust\nStars: 10754\nForks: 492",
+      "creator": "n0-computer",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kong/insomnia",
+      "link": "https://github.com/Kong/insomnia",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/56899284/3440c800-9aaa-11ea-9944-021217af0490\" referrerpolicy=\"no-referrer\"><br>The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.<br><br>Language: TypeScript<br>Stars: 39707<br>Forks: 2346",
+      "contentSnippet": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.\nLanguage: TypeScript\nStars: 39707\nForks: 2346",
+      "creator": "Kong",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "makeplane/plane",
+      "link": "https://github.com/makeplane/plane",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/568098118/f09acd77-fc81-43ea-9966-db84c84c0507\" referrerpolicy=\"no-referrer\"><br>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.<br><br>Language: TypeScript<br>Stars: 53002<br>Forks: 4727",
+      "contentSnippet": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.\nLanguage: TypeScript\nStars: 53002\nForks: 4727",
+      "creator": "makeplane",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "link": "https://github.com/bytedance/deer-flow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a26483932938e9974d191cd45fe0b0f75ea0ff7e1bdccf0318539eb6f6c07ba2/bytedance/deer-flow\" referrerpolicy=\"no-referrer\"><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.<br><br>Language: Python<br>Stars: 74662<br>Forks: 10069",
+      "contentSnippet": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.\nLanguage: Python\nStars: 74662\nForks: 10069",
+      "creator": "bytedance",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/34d9285f5c0d092ba6680d06eaa69f634a6fb3d241734117c04aa993c99040b0/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 146101<br>Forks: 12637",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 146101\nForks: 12637",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-25T18:18:57.600Z"
+}
