@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "How agents are transforming work",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "pubDate": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "isoDate": "2026-06-25T02:00:00.000Z",
+      "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "contentSnippet": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "pubDate": "Wed, 24 Jun 2026 06:00:00 GMT",
+      "isoDate": "2026-06-24T06:00:00.000Z",
+      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "contentSnippet": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "isoDate": "2026-06-23T13:00:00.000Z",
+      "content": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "contentSnippet": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "pubDate": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-23T17:00:00.000Z",
+      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "contentSnippet": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "link": "https://openai.com/index/omio",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-23T00:00:00.000Z",
+      "content": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "contentSnippet": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://openai.com/index/patch-the-planet",
+      "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-22T10:00:00.000Z",
+      "content": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "contentSnippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-22T10:00:00.000Z",
+      "content": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "contentSnippet": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "link": "https://openai.com/index/codex-maxxing-long-running-work",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-22T00:00:00.000Z",
+      "content": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "contentSnippet": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "isoDate": "2026-06-21T23:00:00.000Z",
+      "content": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "contentSnippet": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-18T17:00:00.000Z",
+      "content": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "contentSnippet": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+      "isoDate": "2026-06-18T11:00:00.000Z",
+      "content": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "contentSnippet": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
+      "isoDate": "2026-06-18T08:00:00.000Z",
+      "content": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "contentSnippet": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction",
+      "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-17T10:00:00.000Z",
+      "content": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "contentSnippet": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "link": "https://openai.com/index/introducing-life-sci-bench",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "contentSnippet": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "link": "https://openai.com/index/deployment-simulation",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-16T00:00:00.000Z",
+      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "contentSnippet": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-14T17:00:00.000Z",
+      "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "contentSnippet": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "pubDate": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-12T10:00:00.000Z",
+      "content": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "contentSnippet": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "link": "https://openai.com/index/preply",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "contentSnippet": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "contentSnippet": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "contentSnippet": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "contentSnippet": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "link": "https://openai.com/index/bbva",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "contentSnippet": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "isoDate": "2026-06-10T20:00:00.000Z",
+      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "contentSnippet": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-10T12:00:00.000Z",
+      "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+      "contentSnippet": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "link": "https://openai.com/index/lseg",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-10T00:00:00.000Z",
+      "content": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "contentSnippet": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "link": "https://openai.com/index/nextdoor",
+      "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-09T12:00:00.000Z",
+      "content": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "contentSnippet": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What Codex unlocks for Notion",
+      "link": "https://openai.com/index/notion",
+      "pubDate": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-09T10:00:00.000Z",
+      "content": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "contentSnippet": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "contentSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "link": "https://openai.com/index/openai-submits-confidential-s-1",
+      "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "isoDate": "2026-06-08T14:00:00.000Z",
+      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "contentSnippet": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Built to benefit everyone: our plan",
+      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "pubDate": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "isoDate": "2026-06-08T01:30:00.000Z",
+      "content": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "contentSnippet": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-25T18:18:02.900Z"
+}
